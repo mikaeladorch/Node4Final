@@ -13,15 +13,15 @@
 * * *
 
 **Timeline**
-Week 1: 05/01/2022-05/07/2022
+***Week 1: 05/01/2022-05/07/2022***
 1\. Initial idea brainstorming
 2\. Setup up start, mining locations, and clearing screen framework
 
-Week 2: 05/08/2022-05/14/2022
+***Week 2: 05/08/2022-05/14/2022***
 1\. Create play functions and difficulty for each mining location
 2\. Add art assets to all the screens
-2\. Add text and font for title and instructions
+3\. Add text and font for title and instructions
 
-Week 3: 05/15/2022-05/21/2022
-5\. Debug and test overall code functionality
-6\. Include additional features and final touches
+***Week 3: 05/15/2022-05/21/2022***
+1\. Debug and test overall code functionality
+2\. Include additional features and final touches
